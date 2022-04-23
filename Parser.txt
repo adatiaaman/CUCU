@@ -1,0 +1,40 @@
+const-1
+global variable: n
+function arguement: b
+function arguement: a
+var-a
+var-b
++
+return
+function body end
+return "aman"
+function body end
+function arguement: argv
+function arguement: argc
+var-b
+var-c
++
+const-5
+*
+local variable: a
+var-a
+const-1
++
+local variable: b
+local variable: s
+string: "aman"
+const-0
+local variable: c
+var-a
+==
+var-b
+comparison
+const-1
+local variable: c
+const-2
+local variable: c
+else statement end
+if/if-else statement end
+
+"%\var-d
+Syntax Error
