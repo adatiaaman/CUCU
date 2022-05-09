@@ -1,7 +1,4 @@
-AMAN PANKAJ ADATIA
-2020CSB1154
-
-CS202 LAB 9
+AMAN
 
 To compile and run the program: 
 bison -d cucu.y
